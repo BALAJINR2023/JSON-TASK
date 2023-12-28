@@ -1,0 +1,53 @@
+{
+    "Basics": {
+      "Name": "BALAJI R",
+      "Email": "ravibalajinr@gmail.com",
+      "Phone": 8675000000,
+      "Degree": "B.E",
+      "Location": {
+        "Address": "08 Ramalingam nagar",
+        "PostalCode": 607002,
+        "City": "cuddalore",
+        "State": "Tamilnadu",
+        "Country": "India"
+      },
+      "profiles": [
+        {
+          "github":"https://github.com/BALAJINR2023"
+        }
+      ]
+    },
+    "Work": [
+      {
+        "company": "TATA MOTORS",
+        "position": "Business Executive",
+        "summary": "Financial sector"
+      },
+      {
+        "company": "MAHINDRA AND MAHINDRA",
+        "position": "Area Manger",
+        "summary": "Financial sector"
+      }
+    ],
+    "Education": [
+      {
+        "institution": "IFET COLLEGE OF ENGINEERING",
+        "department": "MECHANCIAL",
+        "studyType": "Fulltime",
+        "batch start year": 2012,
+        "batch end year": 2016
+      }
+    ],
+    "Skills": [
+      {
+        "name": "javascript",
+        "level": "beginer"
+      }
+    ],
+    "Languages": [
+      {
+        "language": "Tamil,Enlish"
+      }
+    ]
+}
+ 

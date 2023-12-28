@@ -1,0 +1,20 @@
+*******In JavaScript, window, screen, and document are objects that represent different aspects of the browser environment.
+Here's a brief overview of each:
+
+<---window Object:
+The window object represents the global browser window or tab.It is the top-level object in the browser's object model and acts as a global scope for JavaScript code running in a browser.
+Properties and methods related to the browser window can be accessed through the window object.
+Commonly used properties include window.innerWidth, window.innerHeight to get the inner width and height of the browser window.
+
+<---screen Object:
+The screen object represents the user's screen or monitor.
+It provides information about the user's screen, such as width, height, and color depth.
+Properties like screen.width and screen.height can be used to get the width and height of the user's screen.
+
+<---document Object:
+The document object represents the HTML document loaded in the browser window.
+It provides access to the content of the document and allows manipulation of the HTML elements on the page.
+Methods like getElementById() and properties like document.title are commonly used to interact with the document.
+
+    In summary, window is the top-level object representing the browser window, screen represents the user's screen, and document represents the HTML document loaded in the browser. 
+These objects are part of the Document Object Model (DOM) and provide ways to interact with and manipulate the browser environment using JavaScript.
